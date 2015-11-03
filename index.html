@@ -33,9 +33,17 @@
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
   <div class="container">
     <div class="row">
-      <div class="one-half column" style="margin-top: 25%">
-        <h4>Basic Page</h4>
-        <p>This index.html page is a placeholder with the CSS, font and favicon. It's just waiting for you to add some content! If you need some help hit up the <a href="http://www.getskeleton.com">Skeleton documentation</a>.</p>
+      <div class="twelve columns">
+        <h2>Posts</h4>
+          <ul>
+            {% for post in site.posts %}
+              {% if post.draft == null %}
+                <li>
+                  <a href="{{ post.url }}">{{ post.date | date_to_long_String }} - {{ post.title }}</a>  
+                </li>
+              {% endif %}
+            {% endfor %}
+        <!-- If you need some help hit up the <a href="http://www.getskeleton.com">Skeleton documentation -->
       </div>
     </div>
   </div>
