@@ -1,5 +1,5 @@
 gems:
-  - jekyll-sitemap
+#  - jekyll-sitemap
   
 markdown: redcarpet 
 redcarpet:   
