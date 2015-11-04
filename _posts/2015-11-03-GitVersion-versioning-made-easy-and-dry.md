@@ -2,9 +2,7 @@
 layout: post
 title: Git version - Making versioning easy & DRY
 tags: ci, continuous integration, github, appveyor, octopus deploy, gitflow 
-
 ---
-
 # Git version #
 
 ## Making versioning easy & DRY ##
