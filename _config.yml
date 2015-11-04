@@ -1,5 +1,4 @@
-gems:
-#  - jekyll-sitemap
-  
-markdown: redcarpet 
-  
+# Build settings
+highlighter: true
+markdown: kramdown
+permalink: pretty
