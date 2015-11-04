@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Git version - Making versioning easy & DRY
+title: GitVersion versioning made easy and dry
 tags: ci, continuous integration, github, appveyor, octopus deploy, gitflow 
 ---
 # Git version #
@@ -16,7 +16,7 @@ Ok, another checkin, and the build is running again - triggered by the checkin. 
 "Oh, was the build version in the build server updated?"
 Updated, Re-Build Commit and go!  
 
-At least the deploy server is covered; that one takes the  release version from the package."
+At least the deploy server is covered; that one takes the  release version from the package.
 
  
 ### DRY ###
@@ -85,7 +85,7 @@ With the package [OctoPack](https://www.nuget.org/packages/OctoPack/) in your pr
     
 
 ### The power of yaml ###
-There was another challenge, calling the gitVersion script and the *AssemblyInfo patching* in the right order.
+There was another challenge, calling the git version script and the *AssemblyInfo patching* in the right order.
 
 To add the OctoPack parameters to MSBuild, we have to use the build script option in AppVeyor. That means that there is no pre-build script option, in which can update the build version before the *AssemblyInfo patching* takes place. 
 
@@ -160,11 +160,11 @@ The steps needed to get this working:
 
 Create a build & release:
 
-1. Make a new release branch with the version (v1.2) and push it
+1. Make a new release branch with the version (vX.Y) and push it
 2. AppVeyor is triggered to build this branch
-3. Retrieves the git version
-4. Updates the build version
-5. Patches the assembly version
+3. - Retrieves the git version
+4. - Updates the build version
+5. - Patches the assembly version
 6. OctoPack creates a packages with the version in the filename and sends it to Octopus
 7. Octopus bases the release version on the version of the package
 

@@ -1,4 +1,4 @@
 # Build settings
 highlighter: true
-markdown: kramdown
+markdown: redcarpet
 permalink: pretty
