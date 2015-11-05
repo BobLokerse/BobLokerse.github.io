@@ -10,18 +10,18 @@ tags: ci, continuous integration, github, appveyor, octopus deploy, gitflow
 ### Intro ###
 You just made a new version of your application. Nice.:-)
 
-"Oh, wait, did I update the assemblyVersion?"
+"Oh, wait, did I update the assembly version?"
 Ok, another checkin, and the build is running again - triggered by the checkin. Nice.
 
 "Oh, was the build version in the build server updated?"
 Updated, Re-Build Commit and go!  
 
-At least the deploy server is covered; that one takes the  release version from the package.
+At least the deploy server is covered; that one takes the release version from the package.
 
  
 ### DRY ###
 What would be nice is to set the version once & Don't Repeat Yourself.
-Easier and less risk on mistakes.
+Easier and less risk on making mistakes.
 
 The CI setup used is: **[GitHub](https://github.com/ "GitHub - Code repository") - [AppVeyor](http://www.appveyor.com/ "AppVeyor - Build server") - [Octopus Deploy](https://octopus.com/ "Octopus Deploy - Automated deployment")** 
 
@@ -53,9 +53,7 @@ Becomes 1.2.{build nr}. With build nr 1 that is: 1.2.1
         appveyor UpdateBuild -Version "$newVersion"
       }
       gitVersion
-I think (most) of the Power-Shell script is self explainable. 
-
-Some notes though: AppVeyor uses environment variables, which I use to get the branch:
+Some notes: AppVeyor uses environment variables, which I use to get the branch:
     
     $branch=$env:APPVEYOR_REPO_BRANCH
 and the build nr:
@@ -92,7 +90,7 @@ To add the OctoPack parameters to MSBuild, we have to use the build script optio
 Well, there is another way to setup AppVeyor: by adding a [appveyor.yml](http://www.appveyor.com/docs/appveyor-yml) file to your solution, which describes the override actions regarding the gui/website.
 And in that yaml file, you have the option of an [init section](http://www.appveyor.com/docs/build-configuration#configuring "build-configuration"), that is ran before the git cloning.
 
-That is pretty powerfull. You can put all the settings in that yaml file, so in the AppVeyor gui you only have to create the project, the rest will be done in the appveyor.yml. See the example below:
+That is pretty powerful. You can put all the settings in that yaml file, so in the AppVeyor gui you only have to create the project, the rest will be done in the appveyor.yml. See the example below:
 
     # appveyor.yml file
     
