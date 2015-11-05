@@ -1,2 +1,0 @@
-# BobLokerse.github.io
-Blogging
