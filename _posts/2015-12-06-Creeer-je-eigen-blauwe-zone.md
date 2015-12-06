@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Creeër je eigen blauwe zone
+title: Creëer je eigen blauwe zone
 tags: voeding, lifestyle, blauwezone, voeding, gezond, veroudering
 ---
 ### Intro ###
