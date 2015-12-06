@@ -40,7 +40,7 @@ Suiker maakt eiwitten stijf. En eiwitten zitten door je hele lijf! Je ziet het a
 
 Als je suiker eet, krijgt je lijf een flinke glucosepiek, die gedeeltelijk verbruikt wordt en de rest wordt in vet omgezet. Na ongeveer 1,5 tot 2 uur krijg je een glucosedal, onder je standaardnivo, waardoor je flink honger krijgt en weer gaat eten.
 Je lijf schreeuwt om suiker.
-Bij gezonder (suikerarm) eten, gaat geleiderlijker zonde piek en zonder diep dal. Na ongeveer drie uur zit je glucosenivo op de nullijn en begin je wat trek te krijgen. Voor de meesten net de tijd van de volgende maaltijd. 
+Bij gezonder (suikerarm) eten, gaat het geleiderlijker zonder piek en zonder diep dal. Na ongeveer drie uur zit je glucosenivo op de nullijn en begin je wat trek te krijgen. Voor de meesten net de tijd van de volgende maaltijd. 
 
 ### Voorkomen ###
 Om ziekten te voorkomen en een gezondere levenstijl na te streven wordt het volgende aanbevolen:
@@ -49,8 +49,8 @@ Om ziekten te voorkomen en een gezondere levenstijl na te streven wordt het volg
 - minder pasta/koolhydraten
 - meer groente
 - meer eiwitten, vet en vezels
-- minder suker en frisdrank
-- niet veel vruchtensappen. Sap mét vezels is beter omdat de suikers dan minder snel opgenomen worden
+- minder suiker en frisdrank
+- niet veel vruchtensappen. De vezels van het fruit aan het sap toevoegen (of erin latenj) zorgt ervoor dat de fruitsuikers geleidelijker opgenomen worden
 - al dente groente
 - zuurder eten, bv. dressings
 - rood vlees is goed, alleen niet elke dag en een beetje
@@ -62,7 +62,7 @@ Een dieet waarbij onbeperkt gegeten kon worden van natuurlijke, verse voeding, v
 bleek na zes maanden al een betere totale gezondheid op te leveren met betere nivo's van glucose en cholesterol; in vergelijking met een typisch dieet van beperking in vet en calorieën.
   
 Daarnaast is bewegen zeer goed, onder ander voor het brein!
-Dementie neemt af bij als men actief wordt. Aanraders zijn actieviteiten die je leuk vindt, die je dus blijft doen.
+Dementie neemt af bij als men actief wordt. Aanraders zijn activiteiten die je leuk vindt, die je dus (je hele leven) blijft doen.
 Voorbeelden zijn: dansen, muziek maken, puzzelen en bordspellen. "Use it or lose it".
 Afvallen werkt bij velen niet als men het eetpatroon niet aanpast, dan is het bewegen snel gecompenseerd door het eten erna. 
 
@@ -74,6 +74,8 @@ De lezing vond ik zeer interessant en duidelijk gegeven. Terwijl de details van 
 Zo ook in zijn boek "Maak je niet dik". Het leest makkelijk en is duidelijk (met verwijzingen naar de wetenschappelijke artikelen). Een aanrader om je verder te verdiepen in een gezonde levensstijl, je gezonde toekomst.
 
 Wil je meer wetenschappelijke uitleg, dan is zijn eerdere boek "Hoe word je 100?" een aanrader, of "De Voedselzandloper" van Kris Verburgh.
+
+Dit bood mij ook de kans om een paar vragen te stellen en die mij al een tijdje bezig hielden.
 
 ### Vragen ###
 1. Koolhydraten bij intens sporten. Dit houdt mij al even bezig. (Kracht)sporters eten veel koolhydraten (naast eiwitten) als voeding voor de spieren.
