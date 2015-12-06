@@ -13,14 +13,18 @@ In plaats van pas in actie te komen als iemand al ziek is.
 
 ### Who want to live forever? ###
 Net als Kris Verburgh van de Voedselzandloper is zijn hoofdthema het vertragen van de veroudering. Dan denkt men al snel aan het zeer oud worden, 100+, en wil je dat wel?
-Wat belangrijker daarbij is, het het gezonder en fitter ouder worden en dan gaat het al om de jaren 60-70, 70-80. 
-Dus in plaats van in de hele dag in een (rol)stoel achter de geraniums te zitten, met een batterij aan pillen tegen de diverse ziekten en hun bijwerkingen,
+Wat belangrijker daarbij is, is het gezonder en fitter ouder worden en dan gaat het al om de leeftijd bij 60-70, 70-80.
+
+ 
+Dus in plaats van de hele dag in een (rol)stoel achter de geraniums te zitten, met een batterij aan pillen tegen de diverse ziekten en hun bijwerkingen,
 heb je nog een actief en fit leven samen met mensen om je heen die ook nog fit zijn en waar je veel plezier mee hebt.
-Wellicht ben je dan zelfs nog niet pensioen omdat je nog wil bijdragen aan de maatschappij en bij wil blijven.  
+Wellicht ben je dan zelfs nog niet pensioen omdat je nog teveel energie hebt, je (vrijwilligers)werk leuk vindt en wil bijdragen aan de maatschappij, er midden in staan.  
 
 ### Blauwe zones ###
 Er zijn een vijf plekken op de wereld waar mensen gezonder oud en ouder worden. Wetenschappers hebben onderzoek gedaan waar dat door komt (National Geograpic 2008).
 Wat op valt bij deze mensen is:
+
+
 - dagelijkse ontspanning
 - fysiek & mentaal actief (geen pensioen)
 - een hecht sociaal netwerk
@@ -28,9 +32,10 @@ Wat op valt bij deze mensen is:
 - gezonde voeding
 
 ### Versuikering ###
-Zoals de laatste tijd vaker in het nieuws, is een van de problemen suker en de indirecte suikers (glucose) onder andere in de vorm van veel koolhydraten.
+Zoals de laatste tijd vaker in het nieuws, is een van de problemen suiker en de indirecte suikers (glucose) onder andere in de vorm van veel koolhydraten.
 Ik kom zo nog terug op koolhydraten en (intens) sporten.
-Eiwitten worden stijf van de suiker. En eiwitten zitten door je hele lijf! Je ziet het aan de huid die krakelee wordt maar immuuncellen worden er ook minder actief van, wat een bevordelijk is voor kanker.
+
+Eiwitten worden stijf van de suiker. En eiwitten zitten door je hele lijf! Je ziet het aan de huid die krakelee wordt maar immuuncellen worden er ook minder actief van, wat bevordelijk is voor kanker.
 "Glucose is candy for cancer"
 
 Bij een suiker-, koolhydraatverslaving, Als men suiker eten, krijgt je lijf een flinke piek (...), die gedeeltelijk verbruikt wordt de rest wordt in vet omgezet. Na iets van 1,5-2 uur krijg je een glucose dal, onder je standaard nivo, waardoor je flink honger krijgt en weer gaat eten.
@@ -61,7 +66,9 @@ Voor het afvallen werkt het bij veel niet, als men het eetpatroon niet aanpast, 
 Hij raadt aan om je te laten testen bij je huisarts: 
 HbA1c - een diabetes test. Om te weten hoe het met je bloedsuiker staat, voordat je er last van krijgt.
 
-Zijn boek leest makkelijk en is duidelijk. Een aanrader om je verder te verdiepen 
+Het boek "maak je niet dik" van dr. William Cortvriendt boek leest makkelijk en is duidelijk (met verwijzingen naar de wetenschappelijke artikelen). Een aanrader om je verder te verdiepen in een gezonde levenstijl, je gezonde toekomst.
+
+Wil je meer wetenschappelijke uitleg, dan is zijn eerdere boek "Hoe wordt je 100?" een aanrader, of "De Voedselzandloper" van Kris Verburgh.
 
 ### Vragen ###
 1. Koolhydraten bij intens sporten. Dit houdt mij al even bezig. (Kracht)sporters eten veel koolhydraten (naast eiwitten) als voeding voor de spieren.
@@ -76,14 +83,18 @@ Ook of je twee of drie maaltijden per dag nodig hebt, of het zelfs in meer klein
 Bij het overgaan op de gezonde levenstijl zal het bij de een dan ook sneller tot resultaten leiden dan bij de ander. 
 Mijn ervaring is dat het lastige is dat het geleidelijk gaat en ook in je lijf, zonder dat je er direct bewust van bent.
 
- ### Links ###
- Hieronder enkele links; 
- Van Culicool namens wie ik naar de lezing ben geweest, een mooie site met gezonde (paleo) recepten en programma's om je te helpen met een nieuwe gezonde leefstijl.
- Van uitgeverij Lucht die de lezing organiseerde in een mooie locatie, met een verwijzing naar het boek "maak je niet dik" van dr. Cortvriendt.
- En ten slotte een link naar mijn pagina met recepten en tips over voeding, Bob's crazy kitchen, niet moeilijk om wat lekkers op tafel te zetten.
+### Links ###
+
+Hieronder enkele links; 
+Van Culicool namens wie ik naar de lezing ben geweest, een mooie site met gezonde (paleo) recepten en programma's om je te helpen met een nieuwe gezonde leefstijl.
+Van uitgeverij Lucht die de lezing organiseerde in een mooie locatie, met een verwijzing naar het boek "maak je niet dik" van dr. Cortvriendt.
+Het boek De Voedingszandloper heeft mij bewust gemaakt van deze nieuwe levenstijl.
+En ten slotte een link naar mijn pagina met recepten en tips over voeding, Bob's crazy kitchen, niet moeilijk om wat lekkers op tafel te zetten.
  
- http://culicool.nl/
- http://www.uitgeverijlucht.nl/boeken/maak-je-niet-dik
- https://www.facebook.com/Bobscrazykitchen/
+
+- [http://culicool.nl/](http://culicool.nl/)
+- [http://www.uitgeverijlucht.nl/boeken/maak-je-niet-dik](http://www.uitgeverijlucht.nl/boeken/maak-je-niet-dik)
+- [http://www.voedselzandloper.com/](http://www.voedselzandloper.com/)
+- [https://www.facebook.com/Bobscrazykitchen/](https://www.facebook.com/Bobscrazykitchen/)
  
  
