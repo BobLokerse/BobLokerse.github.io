@@ -103,9 +103,9 @@ Het boek "De Voedselzandloper" heeft mij bewust gemaakt van deze nieuwe levensst
 En ten slotte een link naar mijn Facebookpagina "Bob's crazy kitchen" met recepten en tips over voeding: niet moeilijk om wat lekkers op tafel te zetten.
  
 
-- [http://culicool.nl/](http://culicool.nl/){:target="_blank"}
-- [http://www.uitgeverijlucht.nl/boeken/maak-je-niet-dik](http://www.uitgeverijlucht.nl/boeken/maak-je-niet-dik){:target="_blank"}
-- [http://www.voedselzandloper.com/](http://www.voedselzandloper.com/){:target="_blank"}
-- [https://www.facebook.com/Bobscrazykitchen/](https://www.facebook.com/Bobscrazykitchen/){:target="_blank"}
+- [http://culicool.nl/](http://culicool.nl/)
+- [http://www.uitgeverijlucht.nl/boeken/maak-je-niet-dik](http://www.uitgeverijlucht.nl/boeken/maak-je-niet-dik)
+- [http://www.voedselzandloper.com/](http://www.voedselzandloper.com/)
+- [https://www.facebook.com/Bobscrazykitchen/](https://www.facebook.com/Bobscrazykitchen/)
  
  
