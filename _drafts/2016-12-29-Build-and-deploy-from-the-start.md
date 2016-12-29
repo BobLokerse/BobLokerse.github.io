@@ -3,7 +3,7 @@ layout: post
 title: Build and deploy from the start
 tags: ci, continuous integration, octopus deploy, appveyor, build server, unit tests, fake db, peer reviews
 ---
-##Intro##
+## Intro ##
 
 A lot of times applications are deployed by hand on a developers laptop.
 
@@ -17,7 +17,7 @@ For example the transformations of the configs now needs to be done at deploy ti
 That also means that when a version is approved by the test team, a new build needs to be made for the acceptance environment; the same for production. 
 
 
-##From the start##
+## From the start ##
 So, how to smoothly implement this?
 Well, when there is little to nothing to integrate: at the start of the project.
 
@@ -34,9 +34,9 @@ Some options for build servers are:
 - An on premise option is [Bamboo](https://www.atlassian.com/software/bamboo)
 
 
-##Extra##
+## Extra ##
 
-###Unit test basics###
+### Unit test basics ###
 Another good thing to setup from the start, is the unit test basics.
 Setup the use of a fake database with dependency injection and make some unit tests that can be used as examples.
 
@@ -46,5 +46,5 @@ For Sitecore projects, these are good blogs:
 
 - [Improving unit test readability: helper methods & named arguments](http://blog.marcduiker.nl/2016/06/01/improving-unit-test-readability-named-args.html)
 
-###Peer reviews###
+### Peer reviews ###
 To share the code and knowledge of the application and it changes, do peer reviews between developers of a feature. It also triggers the way of coding, to improve the coding guidelines.
