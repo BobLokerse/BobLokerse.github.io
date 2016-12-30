@@ -9,11 +9,11 @@ A lot of times applications are deployed by hand on a developers laptop.
 
 That can be time consuming and it is mostly done by one, or a few developers within the team.
 
-With a build server, you know you have an independent build, unit tests, code analysis (if setup) and a package that can be tested by the test team, if deployed.
+With a build server, you know you have an independent build, unit tests & code analysis checked (if setup) and a package that can be tested by the test team, if deployed.
 
 If the application has had some releases, it is setup for manual builds and deployments.
 When that is in place, the application must be adjusted for a build and deploy server. 
-For example the transformations of the configs now needs to be done at deploy time instead of at build time; that is because the package from the build can potentially go from test all the way to production. When done manually, it is build for a specific environment.
+For example the transformation of the configs now needs to be done at deploy time instead of at build time; that is because the package from the build can potentially go from test all the way to production. When done manually, it is build for a specific environment.
 That also means that when a version is approved by the test team, a new build needs to be made for the acceptance environment; the same for production. 
 
 
@@ -34,7 +34,7 @@ Some options for build servers are:
 - An on premise option is [Bamboo](https://www.atlassian.com/software/bamboo)
 
 
-## Extra ##
+## Extras ##
 
 ### Unit test basics ###
 Another good thing to setup from the start, is the unit test basics.
@@ -47,4 +47,4 @@ For Sitecore projects, these are good blogs:
 - [Improving unit test readability: helper methods & named arguments](http://blog.marcduiker.nl/2016/06/01/improving-unit-test-readability-named-args.html)
 
 ### Peer reviews ###
-To share the code and knowledge of the application and it changes, do peer reviews between developers of a feature. It also triggers the way of coding, to improve the coding guidelines.
+To share the code and knowledge of the application and it changes, do peer reviews between developers of a feature. It also triggers the talk about the way of coding, to improve the coding guidelines, uniform coding.
