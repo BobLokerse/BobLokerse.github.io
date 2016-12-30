@@ -13,10 +13,7 @@ title: "Bob Lokerse My thoughts on blog"
       <div class="twelve columns">
         <h2>Posts</h4>
           <ul>
-            <span>site.posts: {% site.posts %} </span>
-            
             {% for post in site.posts %}
-            <span>post.draft: {% post.draft %} </span>
               {% if post.draft == null %}
                 <li>
                   <a href="{{ post.url }}">{{ post.date | date_to_long_String }} - {{ post.title }}</a>  
