@@ -160,11 +160,11 @@ Create a build & release:
 
 1. Make a new release branch with the version (vX.Y) and push it
 2. AppVeyor is triggered to build this branch
-3. - Retrieves the git version
-4. - Updates the build version
-5. - Patches the assembly version
-6. OctoPack creates a packages with the version in the filename and sends it to Octopus
-7. Octopus bases the release version on the version of the package
+   - Retrieves the git version
+   - Updates the build version
+   - Patches the assembly version
+3. OctoPack creates a packages with the version in the filename and sends it to Octopus
+4. Octopus bases the release version on the version of the package
 
 Now there is one place to fill in the version. If in AppVeyor another build of the same check-in is needed, the build nr is increased, so the build version stays unique.
 If in Octopus an new release is needed, with the same package, the fourth digit can be increased.
