@@ -32,33 +32,37 @@ For example:
 Becomes 1.2.{build nr}. With build nr 1 that is: 1.2.1
 
 ### Scripting it ###
-      function gitVersion(){
-        write-host "This gets the version nr from the end of the git release branch (e.g.: v1.4). And updates the appVersion build version with that (the build nr is appended)."
+    function gitVersion(){
+       write-host "This gets the version nr from the end of the git release branch (e.g.: v1.4). And updates the appVersion build version with that (the build nr is appended)."
 
-        $branch=$env:APPVEYOR_REPO_BRANCH
+       $branch=$env:APPVEYOR_REPO_BRANCH
     
-        $posAfterVchar = $branch.LastIndexOf("v") + 1
-        $versionLength = $branch.Length - $posAfterVchar
-        
-        $gitVersion=$branch.substring($posAfterVchar, $versionLength)
-        
-        $newVersion="$gitVersion.$env:APPVEYOR_BUILD_NUMBER"
-        
-        write-host "Update appveyor build version to:$newVersion"
-        $env:appveyor_build_version="$newVersion"
-        appveyor UpdateBuild -Version "$newVersion"
-      }
-      gitVersion
-Some notes: AppVeyor uses environment variables, which I use to get the branch:
+       $posAfterVchar = $branch.LastIndexOf("v") + 1
+       $versionLength = $branch.Length - $posAfterVchar
+       
+       $gitVersion=$branch.substring($posAfterVchar, $versionLength)
+       
+       $newVersion="$gitVersion.$env:APPVEYOR_BUILD_NUMBER"
+       
+       write-host "Update appveyor build version to:$newVersion"
+       $env:appveyor_build_version="$newVersion"
+       appveyor UpdateBuild -Version "$newVersion"
+    }
+    gitVersion
+      
+    # Some notes: AppVeyor uses environment variables, which I use to get the branch:
     
     $branch=$env:APPVEYOR_REPO_BRANCH
-and the build nr:
+
+    # and the build nr:
 
     $env:APPVEYOR_BUILD_NUMBER
-which I use to complete the version:
+
+    # which I use to complete the version:
 
     $newVersion="$gitVersion.$env:APPVEYOR_BUILD_NUMBER"
-the build version can be updated with the *UpdateBuild* command:
+
+    # the build version can be updated with the *UpdateBuild* command:
 
      appveyor UpdateBuild -Version "$newVersion"
 
